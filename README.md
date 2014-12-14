@@ -1,4 +1,4 @@
 java-multimodule
 ================
 
-Test project
+Test project with tricks tags in pom.xml file.
